@@ -1,4 +1,4 @@
-# MERN Digital Wallet and Money Transfer Application
+# Digital Wallet and Money Transfer Application
 
 ## Overview
 
