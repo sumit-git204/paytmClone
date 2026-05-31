@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is a full-stack MERN application that allows users to send money to other users on the platform. Additionally, it includes a digital wallet feature where users can manage their balances and transactions. The system provides secure sign-in functionality and real-time money transfer between registered users.
+The project is a full-stack MERN application that allows users to send money to other users on the platform. Additionally, it includes a digital wallet feature where users can manage their balances and transactions. The system provides secure sign-in functionality and real-time money transfer between registered users.
 
 ## Features
 
