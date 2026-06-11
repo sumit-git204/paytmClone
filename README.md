@@ -42,7 +42,7 @@ The following environment variables are required:
 - `JWT_SECRET`: Secret key for JWT authentication
 
 
-## Installation
+## Installation steps 
 
 1. **Clone the repository:**
 
