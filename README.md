@@ -17,7 +17,7 @@ The project is a full-stack MERN application that allows users to send money to 
 - **Frontend**: React.js, Axios (or Material-UI) for responsive design
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB for storing user information, balances, and transactions
-- **Authentication**: JWT (JSON Web Tokens) for secure sign-in
+- **Authentication**: JWT (JSON Web Tokens) for secure sign-in serverless
 - **Real-time Updates**: WebSockets or polling for real-time updates (optional)
 - **Deployment**: (Add information on your deployment platform, e.g., Heroku, Vercel)
 
