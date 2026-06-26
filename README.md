@@ -36,7 +36,7 @@ The project is a full-stack MERN application that allows users to send money to 
 
 ## Environment Variables
 
-The following environment variables are required:
+The following environment variables  required:
 
 - `MONGO_URI`: MongoDB database connection string
 - `JWT_SECRET`: Secret key for JWT authentication
