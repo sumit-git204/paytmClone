@@ -27,7 +27,7 @@ The project is a full-stack MERN application that allows users to send money to 
 - [MongoDB](https://www.mongodb.com/)
 - [Git](https://git-scm.com/)
 
-## Usage and functioning
+## Usage & functioning
 
 - **Sign up or sign in** to the application.
 - Once logged in, the user will have access to their digital wallet and transaction history.
